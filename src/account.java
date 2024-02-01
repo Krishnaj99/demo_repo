@@ -8,7 +8,6 @@ public class account {
                 this.accountHolderName = accountHolderName;
                 this.balance = balance;
         }
-
         public String getAccountHolderName() {
                 return accountHolderName;
         }
